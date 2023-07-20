@@ -1,5 +1,5 @@
 # Q_trunc
-To correct the illumination intensity of nephelometers. Larger influences on bigger particles, e.g. dust.
+To correct the illumination intensity of nephelometers in scattering efficiency calculation. Larger influences on bigger particles, e.g. dust.
 
 Normalized illumination intensity RR903 from Fig. 2 in Muller et al., 2009
 
